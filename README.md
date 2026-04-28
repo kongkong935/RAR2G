@@ -1,8 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27152372/README.md)
-<img width="1026" height="1254" alt="image" src="https://github.com/user-attachments/assets/2c66018f-1810-4bd0-841c-71c738627acf" />
-# Retrieval-Augmented Radiology Report Generation with Case-Level Memory and Multi-Query Retrieval
-
-> **R2GenGPT with External Memory** — A retrieval-augmented approach for automated radiology report generation.
+retrieval-augmented approach for automated radiology report generation.
 
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 
