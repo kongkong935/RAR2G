@@ -1,4 +1,4 @@
-retrieval-augmented approach for automated radiology report generation.
+Retrieval-augmented approach for automated radiology report generation.
 
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
 
